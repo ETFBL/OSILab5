@@ -16,6 +16,7 @@ void test(){
  * 
  */
 int main(int argc, char** argv) {
+    int a =0;
     printf("Lab 5");
     printf("jadhajdhad");
     test(); 
