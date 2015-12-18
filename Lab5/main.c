@@ -8,11 +8,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void test(){
+    printf("Test");
+}
+
 /*
  * 
  */
 int main(int argc, char** argv) {
     printf("Lab 5");
+    test(); 
     return (EXIT_SUCCESS);
 }
 
